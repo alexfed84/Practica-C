@@ -1,4 +1,6 @@
 ﻿//Задача №36:	Задать массив, заполнить случайными положительными трёхзначными числами. Показать количество нечетных\четных чисел
+/*
+int [] array = new int[10];
 
 void FillArray(int [] collection)
 {
@@ -19,14 +21,13 @@ void PrintArray(int[] col)
      {
          Console.WriteLine(col[position]);
          position++;
+         if (array[position]%2==0) Console.WriteLine("Чётные числа");
+         else Console.WriteLine("НеЧётные числа");
      }
 }
 
-int [] array = new int[10];
 FillArray(array);  // метод заполняет массив
 PrintArray(array); // метод печатает массив
-
-
-
-
-
+*/
+int[] a = {1,2,3,5}; //{new Random().Next(100,110)};
+Console.WriteLine(a);
