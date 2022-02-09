@@ -1,0 +1,15 @@
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_09\bin\Debug\net6.0\Task_09.exe
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_09\bin\Debug\net6.0\Task_09.deps.json
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_09\bin\Debug\net6.0\Task_09.runtimeconfig.json
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_09\bin\Debug\net6.0\Task_09.dll
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_09\bin\Debug\net6.0\ref\Task_09.dll
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_09\bin\Debug\net6.0\Task_09.pdb
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_09\obj\Debug\net6.0\Task_09.csproj.AssemblyReference.cache
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_09\obj\Debug\net6.0\Task_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_09\obj\Debug\net6.0\Task_09.AssemblyInfoInputs.cache
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_09\obj\Debug\net6.0\Task_09.AssemblyInfo.cs
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_09\obj\Debug\net6.0\Task_09.csproj.CoreCompileInputs.cache
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_09\obj\Debug\net6.0\Task_09.dll
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_09\obj\Debug\net6.0\ref\Task_09.dll
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_09\obj\Debug\net6.0\Task_09.pdb
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_09\obj\Debug\net6.0\Task_09.genruntimeconfig.cache
