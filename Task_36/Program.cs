@@ -29,5 +29,3 @@ void PrintArray(int[] col)
 FillArray(array);  // метод заполняет массив
 PrintArray(array); // метод печатает массив
 */
-int[] a = {1,2,3,5}; //{new Random().Next(100,110)};
-Console.WriteLine(a);
