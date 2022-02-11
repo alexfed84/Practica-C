@@ -1,4 +1,6 @@
-﻿int a = 4;
+﻿// Задача № 14:	Выяснить, кратно ли число заданному, если нет, вывести остаток.
+
+int a = 4;
 Console.WriteLine("Введиет число от 1 до 10:");
 string b = Console.ReadLine();
 int c = Convert.ToInt32(b);
