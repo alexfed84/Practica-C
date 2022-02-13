@@ -1,0 +1,15 @@
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_12\obj\Debug\net6.0\Task_12.csproj.AssemblyReference.cache
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_12\obj\Debug\net6.0\Task_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_12\obj\Debug\net6.0\Task_12.AssemblyInfoInputs.cache
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_12\obj\Debug\net6.0\Task_12.AssemblyInfo.cs
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_12\obj\Debug\net6.0\Task_12.csproj.CoreCompileInputs.cache
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_12\bin\Debug\net6.0\Task_12.exe
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_12\bin\Debug\net6.0\Task_12.deps.json
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_12\bin\Debug\net6.0\Task_12.runtimeconfig.json
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_12\bin\Debug\net6.0\Task_12.dll
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_12\bin\Debug\net6.0\ref\Task_12.dll
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_12\bin\Debug\net6.0\Task_12.pdb
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_12\obj\Debug\net6.0\Task_12.dll
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_12\obj\Debug\net6.0\ref\Task_12.dll
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_12\obj\Debug\net6.0\Task_12.pdb
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_12\obj\Debug\net6.0\Task_12.genruntimeconfig.cache
