@@ -1,24 +1,14 @@
 ﻿// Задача № 13:	Удалить вторую цифру трёхзначного числа.
-/*
-string a = "123";
-int b = Convert.ToInt32(a);
-if(a[1] == 2) a[1] ='\0';
-Console.WriteLine(a);
 
-string Delete (string a, char OldValue, char NewValue)
+int a = 0;
+string s = string.Empty;
+
+Console.WriteLine("Введите трехзначное число: ");
+s = Console.ReadLine();
+a = s.Length;
+
+if(a == 3) 
 {
-    int result = String.Empty;
-    for (int i =0; i<a.Length; i++)
-    {
-        if (a[1]== OldValue ) result = result + NewValue;
-    }
-    return result;
+   Console.WriteLine("Удаляется вторая цифра " + s[s.Length - 2]); 
+   Console.WriteLine("Первая и третья  цифры " + s[s.Length-3] + s[s.Length-1]);
 }
-string newa = Delete(a, "2", "0");
-*/
-//Console.WriteLine("first line\nSecond line");
-Console.WriteLine(@"first line\nSecond line");
-
-//Console.WriteLine(newa);
-
-//Console.WriteLine("Get element by index s12[3]: " + s12[3]); */
