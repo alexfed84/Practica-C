@@ -4,14 +4,15 @@ int a=0;
 string s;
 int res =0;
 int i=1;
-Console.Write("Введите число: ");
+
+Console.Write ("Введите число: ");
 s=Console.ReadLine();
 a=Convert.ToInt32(s);
 
-while( i <= a)
+while ( i <= a )
 {
-    Console.Write(i+" = ");
+    Console.Write (i+ " = ");
     res = i * i;
-    System.Console.WriteLine(res+"; ");
+    Console.WriteLine (res+ ".");
     i++;
 }
