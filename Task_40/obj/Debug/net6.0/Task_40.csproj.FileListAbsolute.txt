@@ -3,3 +3,13 @@ C:\Users\DOM\Desktop\GeekBrains\Введение в программирован
 C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_40\obj\Debug\net6.0\Task_40.AssemblyInfoInputs.cache
 C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_40\obj\Debug\net6.0\Task_40.AssemblyInfo.cs
 C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_40\obj\Debug\net6.0\Task_40.csproj.CoreCompileInputs.cache
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_40\bin\Debug\net6.0\Task_40.exe
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_40\bin\Debug\net6.0\Task_40.deps.json
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_40\bin\Debug\net6.0\Task_40.runtimeconfig.json
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_40\bin\Debug\net6.0\Task_40.dll
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_40\bin\Debug\net6.0\ref\Task_40.dll
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_40\bin\Debug\net6.0\Task_40.pdb
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_40\obj\Debug\net6.0\Task_40.dll
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_40\obj\Debug\net6.0\ref\Task_40.dll
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_40\obj\Debug\net6.0\Task_40.pdb
+C:\Users\DOM\Desktop\GeekBrains\Введение в программирование\С#\Homework\Task_40\obj\Debug\net6.0\Task_40.genruntimeconfig.cache
